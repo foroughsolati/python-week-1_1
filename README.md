@@ -1,3 +1,3 @@
 # shopping_list_manager
-Simple shopping list manager in Python
-Practice project – functions, loops, conditions
+This is a simple Python program to manage a shopping list.
+It includes functions to add, remove, and show items in a list.
